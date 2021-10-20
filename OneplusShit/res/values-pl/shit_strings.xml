@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2017 The MoKee Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="button_panel_summary">Zamiana przycisków, suwak powiadomień</string>
+
+    <!-- Notification slider -->
+    <string name="notification_slider_category_title">Suwak powiadomień</string>
+
+    <string name="notification_slider_selection_dialog_title">Akcja</string>
+    <string name="notification_slider_top_position">Pozycja górna</string>
+    <string name="notification_slider_middle_position">Pozycja środkowa</string>
+    <string name="notification_slider_bottom_position">Pozycja dolna</string>
+
+    <string name="notification_slider_usage_title">Używaj suwaka powiadomień do</string>
+    <string name="notification_slider_for_notification">Powiadomienia</string>
+    <string name="notification_slider_for_flashlight">Latarka</string>
+    <string name="notification_slider_for_brightness">Jasność</string>
+    <string name="notification_slider_for_rotation">Obrót</string>
+    <string name="notification_slider_for_ringer">Dzwonek</string>
+    <string name="notification_slider_for_caffeine">Tryb kofeiny</string>
+    <string name="notification_slider_for_notification_ringer">Dzwonek i powiadomienia</string>
+
+    <string name="notification_slider_mode_total_silence">Całkowita cisza</string>
+    <string name="notification_slider_mode_alarms_only">Tylko alarmy</string>
+    <string name="notification_slider_mode_priority_only">Tylko priorytetowe</string>
+    <string name="notification_slider_mode_none">Wszystko</string>
+
+    <string name="notification_slider_flashlight_off">Wyłączona</string>
+    <string name="notification_slider_flashlight_on">Włączona</string>
+    <string name="notification_slider_flashlight_blink">Mruganie</string>
+
+    <string name="notification_slider_brightness_auto">Auto</string>
+    <string name="notification_slider_brightness_brightest">Najjaśniej</string>
+    <string name="notification_slider_brightness_darkest">Najciemniej</string>
+
+    <string name="notification_slider_rotation_auto">Auto</string>
+    <string name="notification_slider_rotation_portrait">Pionowo</string>
+    <string name="notification_slider_rotation_landscape_90">Poziomo (90°)</string>
+    <string name="notification_slider_rotation_landscape_270">Poziomo (270°)</string>
+
+    <string name="notification_slider_ringer_normal">Normalny</string>
+    <string name="notification_slider_ringer_vibrate">Wibracje</string>
+    <string name="notification_slider_ringer_silent">Wyciszony</string>
+
+    <string name="notification_slider_caffeine_off">Wyłączony</string>
+    <string name="notification_slider_caffeine_5min">5 minut</string>
+    <string name="notification_slider_caffeine_10min">10 minut</string>
+    <string name="notification_slider_caffeine_30min">30 minut</string>
+    <string name="notification_slider_caffeine_infinity">Cały czas</string>
+
+    <!-- General strings -->
+    <string name="dlg_ok">OK</string>
+    <string name="cancel">Anuluj</string>
+    <string name="reset">Reset</string>
+    <string name="reset_message">Zresetować wszystkie ustawienia do domyślnych?</string>
+
+    <string name="screen_off_gesture_title">Gesty na wyłączonym ekranie</string>
+    <string name="group_applications">Aplikacje</string>
+    <string name="select_custom_app_title">Wybierz własne aplikacje</string>
+
+    <string name="enable_gestures_title">Gesty OnePlus</string>
+    <string name="enable_gestures_summary">Włącz gesty na wyłączonym ekranie</string>
+    <string name="gestures_title">Gesty</string>
+    <string name="gesture_arrow_down_title">Strzałka w dół</string>
+    <string name="gesture_arrow_left_title">Strzałka w lewo</string>
+    <string name="gesture_arrow_right_title">Strzałka w prawo</string>
+    <string name="gesture_arrow_up_title">Srzałka w górę</string>
+    <string name="gesture_circle_title">Okrąg</string>
+    <string name="gesture_double_swipe_title">Dwa palce w dół</string>
+    <string name="gesture_double_tap_title">Podwójne dotknięcie</string>
+
+    <string name="button_swap_title">Zamień przyciski</string>
+    <string name="button_swap_summary">Zamień miejscami przyciski wstecz i ostatnich zadań</string>
+
+    <string name="app_name">Specjalne funkcje OnePlus</string>
+
+    <!-- New Options -->
+    <string name="device_extras">Ustawienia OnePlus</string>
+    <string name="device_summary">Dostosuj ustawienia specyficzne dla OnePlus</string>
+    <string name="graphics_title">Grafika</string>
+    <string name="category_vibrator">Wibracje</string>
+    <string name="vib_strength_title_head">Siła wibracji</string>
+    <string name="vib_strength_summary_head">Dostosuj moc wibracji</string>
+    <string name="srgb_mode_summary"></string>
+    <string name="srgb_mode_title">Tryb sRGB</string>
+    <string name="hbm_mode_summary"></string>
+    <string name="hbm_mode_title">Tryb wysokiej jasności</string>
+    <string name="dci_mode_summary"></string>
+    <string name="dci_mode_title">Tryb szerokiej palety kolorów (DCI-P3)</string>
+    <string name="dcdim_mode_summary"></string>
+    <string name="dcdim_mode_title">Ściemniacz DC</string>
+    <string name="oneplus_mode_summary"></string>
+    <string name="oneplus_mode_title">Tryb OnePlus</string>
+    <string name="display_category">Wyświetlacz</string>
+    <string name="device_doze_title">Ekran otoczenia</string>
+    <string name="device_doze_summary">Ustawienia ekranu otoczenia</string>
+    <string name="taptowake_title">D2TW</string>
+    <string name="taptowake_summary">Stuknij podwójnie, by wybudzić</string>
+    <string name="slider_op_title">Chujowy suwak</string>
+    <string name="tile_hbm_mode">Wysoka jasność</string>
+    <string name="slider_op_summary">Ustawienia suwaka powiadomień</string>
+
+    <!-- Kcal -->
+    <string name="kcal_title">Kalibracja ekranu</string>
+    <string name="kcal_summary">Kalibruj kolory ekranu z użyciem KCAL</string>
+    <string name="kcal_enabled_title">Włącz KCAL</string>
+    <string name="kcal_enabled_summary">Włącz kalibrację ekranu, używając KCAL</string>
+    <string name="kcal_red">Czerwony</string>
+    <string name="kcal_green">Zielony</string>
+    <string name="kcal_blue">Niebieski</string>
+    <string name="kcal_saturation">Nasycenie</string>
+    <string name="kcal_contrast">Kontrast</string>
+    <string name="menu_reset">Reset</string>
+    <string name="kcal_color_temp">Temperatura koloru (K)</string>
+    <string name="kcal_hue">Odcień</string>
+    <string name="kcal_value">Wartość</string>
+    <string name="kcal_greyscale_title">Skala szarości</string>
+    <string name="kcal_greyscale_summary">Całkowicie wyłącz nasycenie</string>
+    <string name="presets_list_title">Wczytaj profil KCAL</string>
+    <string name="default_values">Domyślny</string>
+    <string name="version_1">Wersja 1</string>
+    <string name="version_2">Wersja 2</string>
+    <string name="version_3">Wersja 3</string>
+    <string name="triluminous">Świetlisty</string>
+    <string name="deep_black_and_white">Głęboka czerń i biel</string>
+    <string name="deep_natural">Głęboki naturalny</string>
+    <string name="cool_amoled">Chłodny AMOLED</string>
+    <string name="extreme_amoled">Ekstremalny AMOLED</string>
+    <string name="warm_amoled">Ciepły AMOLED</string>
+    <string name="hybrid_mamba">Hybrydowa Mamba</string>
+
+    <!-- Spectrum Profiles -->
+    <string name="spectrum_title">Profil jądra</string>
+    <string name="spectrum_summary">%1$s</string>
+
+    <!-- OnePlus Panel Modes -->
+    <string name="panel_category_title">Tryby panelu</string>
+    <string name="panel_category_summary">Tryby do korekcji kolorów ekranu</string>
+    <string name="off_mode_title">Wyłączone</string>
+    <string name="tile_panel_mode">Tryb panelu</string>
+
+    <!-- Toast Text -->
+    <string name="toast_ringer_vibrate">Wibracje</string>
+    <string name="toast_ringer_normal">Normalny dzwonek</string>
+    <string name="toast_priority_only">Tylko priorytetowe</string>
+    <string name="toast_ringer_silent">Wyciszony dzwonek</string>
+    <string name="toast_total_silence">Całkowita cisza</string>
+    <string name="toast_auto_brightness">Jasność automatyczna</string>
+    <string name="toast_max_brightness">Jasność maksymalna</string>
+    <string name="toast_min_brightness">Jasność minimalna</string>
+    <string name="flash_blink">Mryganie latarki</string>
+    <string name="flash_on">Latarka włączona</string>
+    <string name="flash_off">Latarka wyłączona</string>
+    <string name="toast_caffine_infinity">Tryb kofeiny ciągły</string>
+    <string name="toast_caffine_30min">Kofeina 30 minut</string>
+    <string name="toast_caffine_10min">Kofeina 10 minut</string>
+    <string name="toast_caffine_5min">Kofeina 5 minut</string>
+    <string name="toast_caffine_off">Kofeina wyłączona</string>
+    <string name="toast_rot_auto">Obrót automatyczny</string>
+    <string name="toast_rot_0">Obrót 0 stopni</string>
+    <string name="toast_rot_90">Obrót 90 stopni</string>
+    <string name="toast_rot_270">Obrót 270 stopni</string>
+
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
+    <string name="switch_bar_on">Włączony</string>
+
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
+    <string name="switch_bar_off">Wyłączony</string>
+
+    <!-- Dirac settings -->
+    <string name="dirac_title">Ulepszacz dźwięku Dirac</string>
+    <string name="dirac_settings_title">Ustawienia Dirac</string>
+    <string name="dirac_settings_summary">Ustawienia dźwięku Dirac</string>
+    <string name="dirac_headset_title">Rodzaj słuchawek</string>
+    <string name="dirac_preset_title">Profil dźwięku</string>
+
+    <string name="dirac_headset_default">Domyślny</string>
+    <string name="dirac_headset_earbuds">Mi Earbuds</string>
+    <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
+    <string name="dirac_headset_piston_1">Mi Piston 1</string>
+    <string name="dirac_headset_general">Ogólne słuchawki douszne</string>
+    <string name="dirac_headset_general_inear">Ogólne sluchawki dokanałowe</string>
+    <string name="dirac_headset_piston_basic">Basic Edition</string>
+    <string name="dirac_headset_piston_2">Mi Piston 2</string>
+    <string name="dirac_headset_piston_standard">Mi Piston 3</string>
+    <string name="dirac_headset_headphone">Mi Headphone</string>
+    <string name="dirac_headset_piston_youth">Youth Edition</string>
+    <string name="dirac_headset_piston_color">Color Edition</string>
+    <string name="dirac_headset_in_ear">Mi In-Ear</string>
+    <string name="dirac_headset_capsule">Mi Capsule</string>
+    <string name="dirac_headset_in_ear_pro">Mi In-Ear Pro</string>
+    <string name="dirac_headset_comfort">Mi Comfort</string>
+    <string name="dirac_headset_reduction_noise">Mi Noise Cancelling (Type-C)</string>
+    <string name="dirac_headset_cancelling">Mi Noise Cancelling (3.5mm)</string>
+    <string name="dirac_headset_half_in_ear">Mi Half In-Ear</string>
+    <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
+    <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
+    <string name="dirac_headset_earphone">Mi Earphones</string>
+
+    <string name="dirac_preset_default">Domyślny</string>
+    <string name="dirac_preset_rock">Rock</string>
+    <string name="dirac_preset_jazz">Jazz</string>
+    <string name="dirac_preset_pop">Pop</string>
+    <string name="dirac_preset_classical">Klasyczna</string>
+    <string name="dirac_preset_hiphop">Hip-hop</string>
+    <string name="dirac_preset_blues">Blues</string>
+    <string name="dirac_preset_electronic">Elektroniczna</string>
+    <string name="dirac_preset_country">Country</string>
+    <string name="dirac_preset_dance">Dance</string>
+    <string name="dirac_preset_metal">Metal</string>
+
+    <!-- Vibration Strength for Call & Notif -->
+    <string name="vib_call_strength_title_head">Siła wibracji połączeń</string>
+    <string name="vib_call_strength_summary_head">Zdefiniuj siłę wibracji silnika podczas połączeń przychodzących</string>
+    <string name="vib_notif_strength_title_head">Siła wibracji powiadomień</string>
+    <string name="vib_notif_strength_summary_head">Zdefiniuj siłę wibracji silnika podczas powiadomień</string>
+
+    <!-- Auto-HighBrightness Mode -->
+    <string name="hbm_cat">Wysoka jasność</string>
+    <string name="hbm_autobrightness_summary"></string>
+    <string name="hbm_autobrightness_title">Automatyczny tryb wysokiej jasności</string>
+    <string name="hbm_autobrightness_threshold_summary"></string>
+    <string name="hbm_autobrightness_threshold_title">Próg automatycznego trybu wysokiej jasności (lux)</string>
+
+    <!-- Screen off Gestures : Input -->
+    <string name="touchscreen_gesture_settings_title">Chujowe gesty</string>
+    <string name="touchscreen_gesture_settings_summary">Wykonuj różne akcje gestami na ekranie</string>
+    <string name="touchscreen_gestures_haptic_feedback_title">Sprzężenie zwrotne</string>
+    <string name="touchscreen_gestures_haptic_feedback_summary">Wibruj, gdy zostanie wykryty gest na ekranie</string>
+    <string name="touchscreen_gesture_two_finger_down_swipe_title">Przewinięcie w dół dwoma palcami</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_title">Przewinięcie w górę jednym palcem</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_home_title">Przewinięcie w górę od przycisku strony głównej</string>
+    <string name="touchscreen_gesture_one_finger_down_swipe_title">Przewinięcie w dół jednym palcem</string>
+    <string name="touchscreen_gesture_one_finger_left_swipe_title">Przewinięcie w lewo jednym palcem</string>
+    <string name="touchscreen_gesture_one_finger_right_swipe_title">Przewinięcie w prawo jednym palcem</string>
+    <string name="touchscreen_gesture_up_arrow_title">Narysuj \"Λ\"</string>
+    <string name="touchscreen_gesture_down_arrow_title">Narysuj \"V\"</string>
+    <string name="touchscreen_gesture_right_arrow_title">Narysuj \"&lt;\"</string>
+    <string name="touchscreen_gesture_left_arrow_title">Narysuj \"&gt;\"</string>
+    <string name="touchscreen_gesture_letter_c_title">Narysuj literę \"C\"</string>
+    <string name="touchscreen_gesture_letter_e_title">Narysuj literę \"e\"</string>
+    <string name="touchscreen_gesture_letter_o_title">Narysuj literę \"O\"</string>
+    <string name="touchscreen_gesture_letter_m_title">Narysuj literę \"M\"</string>
+    <string name="touchscreen_gesture_letter_s_title">Narysuj literę \"S\"</string>
+    <string name="touchscreen_gesture_letter_v_title">Narysuj literę \"V\"</string>
+    <string name="touchscreen_gesture_letter_w_title">Narysuj literę \"W\"</string>
+    <string name="touchscreen_gesture_letter_z_title">Narysuj literę \"Z\"</string>
+    <!-- Screen off Gestures : Actions -->
+    <string name="touchscreen_gesture_action_dialog_title">Akcje gestu</string>
+    <string name="touchscreen_gesture_action_do_nothing">Nie rób nic</string>
+    <string name="touchscreen_gesture_action_flashlight">Przełącz latarkę</string>
+    <string name="touchscreen_gesture_action_camera">Otwórz aparat</string>
+    <string name="touchscreen_gesture_action_browser">Otwórz przeglądarkę</string>
+    <string name="touchscreen_gesture_action_dialer">Otwórz telefon</string>
+    <string name="touchscreen_gesture_action_email">Zobacz emaile</string>
+    <string name="touchscreen_gesture_action_messages">Zobacz wiadomości</string>
+    <string name="touchscreen_gesture_action_play_pause_music">Odtwórz/zpauzuj muzykę</string>
+    <string name="touchscreen_gesture_action_previous_track">Odtwórz poprzedni utwór</string>
+    <string name="touchscreen_gesture_action_next_track">Odtwórz następny utwór</string>
+    <string name="touchscreen_gesture_action_volume_down">Zmniejsz głośność mediów</string>
+    <string name="touchscreen_gesture_action_volume_up">Zwiększ głośność mediów</string>
+    <string name="touchscreen_gesture_action_ambient_display">Pokaż ekran otoczenia</string>
+
+</resources>
